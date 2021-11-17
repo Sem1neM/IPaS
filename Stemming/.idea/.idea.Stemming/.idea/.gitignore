@@ -1,0 +1,13 @@
+﻿# Default ignored files
+/shelf/
+/workspace.xml
+# Rider ignored files
+/projectSettingsUpdater.xml
+/contentModel.xml
+/.idea.Stemming.iml
+/modules.xml
+# Datasource local storage ignored files
+/../../../../../../../../../../:\Users\sembe\OneDrive\Документы\Stemming1.5\Stemming\.idea\.idea.Stemming\.idea/dataSources/
+/dataSources.local.xml
+# Editor-based HTTP Client requests
+/httpRequests/

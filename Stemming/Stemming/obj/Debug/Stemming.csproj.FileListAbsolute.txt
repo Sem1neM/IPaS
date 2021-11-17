@@ -1,0 +1,11 @@
+C:\Users\rosyyy\YandexDisk\5 семестр\Информационные процессы и системы\2 лаба\Stemming\Stemming\bin\Debug\Stemming.exe
+C:\Users\rosyyy\YandexDisk\5 семестр\Информационные процессы и системы\2 лаба\Stemming\Stemming\bin\Debug\Stemming.pdb
+C:\Users\rosyyy\YandexDisk\5 семестр\Информационные процессы и системы\2 лаба\Stemming\Stemming\obj\Debug\Stemming.csprojAssemblyReference.cache
+C:\Users\rosyyy\YandexDisk\5 семестр\Информационные процессы и системы\2 лаба\Stemming\Stemming\obj\Debug\Stemming.csproj.CoreCompileInputs.cache
+C:\Users\rosyyy\YandexDisk\5 семестр\Информационные процессы и системы\2 лаба\Stemming\Stemming\obj\Debug\Stemming.exe
+C:\Users\rosyyy\YandexDisk\5 семестр\Информационные процессы и системы\2 лаба\Stemming\Stemming\obj\Debug\Stemming.pdb
+C:\Users\sembe\OneDrive\Документы\Stemming\Stemming\bin\Debug\Stemming.exe
+C:\Users\sembe\OneDrive\Документы\Stemming\Stemming\bin\Debug\Stemming.pdb
+C:\Users\sembe\OneDrive\Документы\Stemming\Stemming\obj\Debug\Stemming.csprojAssemblyReference.cache
+C:\Users\sembe\OneDrive\Документы\Stemming\Stemming\obj\Debug\Stemming.exe
+C:\Users\sembe\OneDrive\Документы\Stemming\Stemming\obj\Debug\Stemming.pdb

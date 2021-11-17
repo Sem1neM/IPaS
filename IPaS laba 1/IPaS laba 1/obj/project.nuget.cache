@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/aJpR63tKwM3ZxCIpguXf5Si25u2bjiwJ+bF8YTrz6MphzTKxXenk9QAhf7bGgZWSMG+6Oew4L1YPVaSvygYLg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sembe\\OneDrive\\Документы\\Уник 4 семестр\\Информационные процессы и системы\\IPaS laba 1\\IPaS laba 1\\IPaS laba 1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sembe\\.nuget\\packages\\microsoft.netcore.app.ref\\3.0.0\\microsoft.netcore.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\sembe\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.0.0\\microsoft.windowsdesktop.app.ref.3.0.0.nupkg.sha512",
+    "C:\\Users\\sembe\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.0.1\\microsoft.aspnetcore.app.ref.3.0.1.nupkg.sha512",
+    "C:\\Users\\sembe\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.0.3\\microsoft.netcore.app.host.win-x64.3.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

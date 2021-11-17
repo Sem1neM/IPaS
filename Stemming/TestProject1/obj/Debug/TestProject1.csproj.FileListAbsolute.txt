@@ -1,0 +1,21 @@
+C:\Users\rosyyy\YandexDisk\5 семестр\Информационные процессы и системы\2 лаба\Stemming\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\rosyyy\YandexDisk\5 семестр\Информационные процессы и системы\2 лаба\Stemming\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\rosyyy\YandexDisk\5 семестр\Информационные процессы и системы\2 лаба\Stemming\TestProject1\bin\Debug\nunit.framework.dll
+C:\Users\rosyyy\YandexDisk\5 семестр\Информационные процессы и системы\2 лаба\Stemming\TestProject1\bin\Debug\Stemming.exe
+C:\Users\rosyyy\YandexDisk\5 семестр\Информационные процессы и системы\2 лаба\Stemming\TestProject1\bin\Debug\Stemming.pdb
+C:\Users\rosyyy\YandexDisk\5 семестр\Информационные процессы и системы\2 лаба\Stemming\TestProject1\bin\Debug\nunit.framework.xml
+C:\Users\rosyyy\YandexDisk\5 семестр\Информационные процессы и системы\2 лаба\Stemming\TestProject1\obj\Debug\TestProject1.csprojAssemblyReference.cache
+C:\Users\rosyyy\YandexDisk\5 семестр\Информационные процессы и системы\2 лаба\Stemming\TestProject1\obj\Debug\TestProject1.csproj.CoreCompileInputs.cache
+C:\Users\rosyyy\YandexDisk\5 семестр\Информационные процессы и системы\2 лаба\Stemming\TestProject1\obj\Debug\TestProject1.csproj.CopyComplete
+C:\Users\rosyyy\YandexDisk\5 семестр\Информационные процессы и системы\2 лаба\Stemming\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\rosyyy\YandexDisk\5 семестр\Информационные процессы и системы\2 лаба\Stemming\TestProject1\obj\Debug\TestProject1.pdb
+C:\Users\sembe\OneDrive\Документы\Stemming\TestProject1\bin\Debug\TestProject1.dll
+C:\Users\sembe\OneDrive\Документы\Stemming\TestProject1\bin\Debug\TestProject1.pdb
+C:\Users\sembe\OneDrive\Документы\Stemming\TestProject1\bin\Debug\nunit.framework.dll
+C:\Users\sembe\OneDrive\Документы\Stemming\TestProject1\bin\Debug\Stemming.exe
+C:\Users\sembe\OneDrive\Документы\Stemming\TestProject1\bin\Debug\Stemming.pdb
+C:\Users\sembe\OneDrive\Документы\Stemming\TestProject1\bin\Debug\nunit.framework.xml
+C:\Users\sembe\OneDrive\Документы\Stemming\TestProject1\obj\Debug\TestProject1.csprojAssemblyReference.cache
+C:\Users\sembe\OneDrive\Документы\Stemming\TestProject1\obj\Debug\TestProject1.csproj.CopyComplete
+C:\Users\sembe\OneDrive\Документы\Stemming\TestProject1\obj\Debug\TestProject1.dll
+C:\Users\sembe\OneDrive\Документы\Stemming\TestProject1\obj\Debug\TestProject1.pdb
